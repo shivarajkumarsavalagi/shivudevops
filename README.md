@@ -1,26 +1,2 @@
-<h1> Hello Shivu </h1>
-
-<h1> Hello Shivu </h1>
-<h1> Hello Shivu </h1>
-<h1> Hello Shivu </h1>
-<h1> Hello Shivu </h1>
-<h1> Hello Shivu </h1>
-<h1> Hello Shivu </h1>
-<h1> Hello Shivu </h1>
-<h1> Hello Shivu </h1>
-<h1> Hello Shivu </h1>
-<h1> Hello Shivu </h1>
-<h1> Hello Shivu </h1>
-
-
-
-
-
-
-
-
-
-
-
-
-
+<h1> HELLO GOOD MORNING</h1>
+<h1> HOW ARE YOU</h1>
